@@ -1,2 +1,2 @@
 # ELK
-ELK stack
+Elasticsearch Logstash Kibana - stack
